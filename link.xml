@@ -1,8 +1,8 @@
 <links>
-<link name="fec.bht.base">
+<link name="fec.bla.base">
 <Link-ref>fec.ace.integration</Link-ref>
 <parameter>
-<name>com. ubs. swidGKK .workbenchID</name>
+<name>com.ubs.swidGKK.workbenchID</name>
 <value>BHT</value>
 </parameter>
 <parameter>
