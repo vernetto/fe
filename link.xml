@@ -1,0 +1,15 @@
+<link name="fec.bht.base">
+<Link-ref>fec.ace.integration</Link-ref>
+<parameter>
+<name>com. ubs. swidGKK .workbenchID</name>
+<value>BHT</value>
+</parameter>
+<parameter>
+<name>gkc.pcid</name>
+<value>BHT</value>
+</parameter>
+<parameter>
+<name>workbenchHelLpLink</name>
+| <value>%%WB_HELP_LINK%%</value>
+</parameter>
+<parameter>
