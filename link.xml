@@ -10,6 +10,6 @@
 </parameter>
 <parameter>
 <name>workbenchHelLpLink</name>
-| <value>%%WB_HELP_LINK%%</value>
+ <value>%%WB_HELP_LINK%%</value>
 </parameter>
 <parameter>
