@@ -1,3 +1,4 @@
+<links>
 <link name="fec.bht.base">
 <Link-ref>fec.ace.integration</Link-ref>
 <parameter>
@@ -10,6 +11,7 @@
 </parameter>
 <parameter>
 <name>workbenchHelLpLink</name>
- <value>%%WB_HELP_LINK%%</value>
+ <value><property-ref>lillo</property-ref></value>
 </parameter>
-<parameter>
+</link>
+</links>
